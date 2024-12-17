@@ -1,15 +1,15 @@
 > 💝 Versión Actual: V1
 
-## 🌸`SUMI SAKURAZAWA`🌸
-## ⭐ **`Sumi Sakurazawa la directora de "el camino" ahora en tu WhatsApp**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;disfruta+de+zakurazawa🦋+❤️‍🔥yajuuu🔥)](https://git.io/typing-svg)
-![Zakurazawa](https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif)
+## 🌸`PAIMON`🌸
+## ⭐ **`Paimon la guia de "el camino" ahora en WhatsApp**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;Paimon🦋+❤️‍🔥yeeeeeee🔥)](https://git.io/typing-svg)
+![Paimon](https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif)
 
 ---
 
-### <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Prueba La Bot Aqui
+### <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> La Bot Aqui
 
-> Si Deseas Probar El Bot Antes De Instalarlo, Click Abajo. 🍟
+> Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo. 🍟
 
 [![Click Aquí](https://img.shields.io/badge/Grupo-Sumi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6)
 
@@ -41,7 +41,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/CheirZ/HuTao-Proyect.git && cd HuTao-Proyect
+git clone https://github.com/paimon.git && cd paimon
 ```
 ```bash
 yarn install && npm update && npm i
@@ -54,14 +54,14 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Sumi
+> cd paimon
 > npm start
 ```
 
 🔥 **`OBTENER OTRO CODIGO QR`**
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd Sumi
+> cd paimon
 > rm -rf Seccion-activas
 > npm start
 ```
@@ -72,11 +72,11 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 💥 **`ACTUALIZAR Sumi`**
-> Note Comandos para actualizar HuTao-Proyect de forma automática
+> Note Comandos para actualizar a Paimon de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/CheirZ/HuTao-Proyect/master/update.sh | bash
 ```
-Para que no pierda su progreso en Sumi, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
+Para no perder progreso en Piamon, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
 > Warning Estos comandos solo funcionan para TERMUX, REPLIT, LINUX
 
@@ -102,7 +102,7 @@ Para que no pierda su progreso en Sumi, estos comandos realizarán un respaldo d
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial ☄️
 
-<a href="https://wa.me/526672454588?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/51923992455?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 > No Spam A La Bot! (solo esta disponible para grupos)
 
@@ -130,8 +130,8 @@ Para que no pierda su progreso en Sumi, estos comandos realizarán un respaldo d
 --- 
 ### **`❤️‍🔥 PROPIETARIO`**
 <a 
-href="https://github.com/leoneloficial"><img src="https://github.com/leoneloficial.png" width="130" height="130" alt="leonel"/></a>
+href="https://github.com/Darwinowo"><img src="https://github.com/Darwinowo.png" width="130" height="130" alt="leonel"/></a>
 
-> Copyright (c) 2024 **[Xi_code](https://whatsapp.com/channel/0029Vagdmfv1SWt5nfdR4z3w)**.
+> Copyright (c) 2024 **[Xi_code]()**.
 
 **`¡GRACIAS POR PREFERIRNOS!` ❤️**
