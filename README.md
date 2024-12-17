@@ -11,7 +11,7 @@
 
 > Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo. 🍟
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Sumi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GSZBZ6Ggjp02mZmZNTGQu6)
+[![Click Aquí](https://img.shields.io/badge/Grupo-Paimom-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 ### Despliegue en SkyUltraPlus Host
 <a href="https://dash.corinplus.com"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
