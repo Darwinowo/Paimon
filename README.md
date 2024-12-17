@@ -103,10 +103,10 @@ Para no perder progreso en Piamon, estos comandos realizarán un respaldo de su 
 - [ ] Otros
 
 --- 
-### **`❤️‍🔥 PROPIETARIO`**
+### **`❤️‍🔥 OSTIA MI CREADOR`**
 <a 
-href="https://github.com/Darwinowo"><img src="https://github.com/Darwinowo.png" width="130" height="130" alt="leonel"/></a>
+href="https://github.com/Darwinxlk"><img src="https://github.com/Darwinxlk.png" width="130" height="130" alt="Xi code"/></a>
 
 > Copyright (c) 2024 **[Xi_code]()**.
 
-**`¡GRACIAS POR PREFERIRNOS!` ❤️**
+**`¡GRACIAS POR LA PREFERENCIA TÍO!` ❤️**
