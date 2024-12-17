@@ -1,8 +1,8 @@
 > 💝 Versión Actual: V1
 
-## 🌸`PAIMON`🌸
-## ⭐ **`Paimon la guia de "el camino" ahora en WhatsApp**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;Paimon🦋+❤️‍🔥yeeeeeee🔥)](https://git.io/typing-svg)
+## 🧧`PAIMON`🧧
+## ⚜️ **`Paimon la guia de "el camino" ahora en tu WhatsApp**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&lines=Bienvenid@+a+mi+repositorio;Paimon🐢+❤️‍🔥yeeeeeee🔥)](https://git.io/typing-svg)
 ![Paimon](https://c.tenor.com/YfGlACQRc_oAAAAd/tenor.gif)
 
 ---
@@ -11,7 +11,7 @@
 
 > Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo. 🍟
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Paimom-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![Click Aquí](https://img.shields.io/badge/Grupo-Paimom-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HCV2RfBk9BhGuYae5qrFh1)
 
 ### Despliegue en SkyUltraPlus Host
 <a href="https://dash.corinplus.com"><img src="https://qu.ax/zFzXF.png" height="125px"></a>
@@ -71,10 +71,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
-💥 **`ACTUALIZAR Sumi`**
+💥 **`ACTUALIZAR Paimon`**
 > Note Comandos para actualizar a Paimon de forma automática
 ```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/CheirZ/HuTao-Proyect/master/update.sh | bash
+grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/Darwinxlk/Paimon/master/update.sh | bash
 ```
 Para no perder progreso en Piamon, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 
@@ -96,9 +96,9 @@ Para no perder progreso en Piamon, estos comandos realizarán un respaldo de su 
 - [ ] Chatbot (modoia)
 - [x] Crear sticker de image/video/gif/url
 - [x] SubBot (Jadibot)
-- [ ] Buscador Google
+- [x] Buscador Google
 - [x] Juego RPG
-- [ ] Personalizar imagen del menú
+- [x] Personalizar imagen del menú
 - [x] Descarga de música y video De YT
 - [ ] Otros
 
@@ -109,4 +109,4 @@ href="https://github.com/Darwinxlk"><img src="https://github.com/Darwinxlk.png" 
 
 > Copyright (c) 2024 **[Xi_code]()**.
 
-**`¡GRACIAS POR LA PREFERENCIA TÍO!` ❤️**
+**`¡GRACIAS POR LA PREFERENCIA TÍO!` 😻**
