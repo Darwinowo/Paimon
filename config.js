@@ -26,18 +26,18 @@ global.suittag = ['34610246115']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '𝕯͢𝖆𝖗𝖎፝֟፝֟፝֟፝֟፝֟፝֟𝖊𝖑𝖆'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻🌸Sumi-Bot_MD🌸'
-global.author = '🌸sumi-Bot_MD🌸'
-global.wm = '🌸Sumi sakurazawa🌸';
-global.titulowm = '👑 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 👑';
-global.titulowm2 = '🌸Sumi sakurazawa🌸'
-global.igfg = '🌸Sumi sakurazawa🌸'
-global.botname = '🌸Sumi sakurazawa🌸'
-global.dev = '👑 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 👑'
-global.textbot = '🌸Sumi sakurazawa🌸 : 👑 𝕷͢𝖊𝖔፝֟፝֟፝֟፝֟፝֟፝֟𝖓𝖊𝖑 👑'
-global.gt = '𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀';
-global.namechannel = '🌸Sumi sakurazawa🌸'
+global.packsticker = 'xit code'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻🌸Paimon🌸'
+global.author = '🌸Paimon🌸'
+global.wm = '🌸Paimon🌸';
+global.titulowm = '👑 xit code 👑';
+global.titulowm2 = '🌸Paimon🌸'
+global.igfg = '🌸Paimon🌸'
+global.botname = '🌸Paimon🌸'
+global.dev = '👑 xit code 👑'
+global.textbot = '🌸Paimon🌸 : 👑 XIT CODE 👑'
+global.gt = '🌸Paimon🌸';
+global.namechannel = '🌸Paimon🌸'
 global.vs = 'V2'
 global.vsJB = '5.0'
 
@@ -132,8 +132,8 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n🌸sumi sakurazawa🌸`;
-global.nomorown = '34610246115';
+global.wm2 = `${dia} ${fecha}\n🌸Paimon🌸`;
+global.nomorown = '59176713015';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
